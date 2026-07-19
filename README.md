@@ -7,7 +7,7 @@
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,js,react,postgres,redis,docker,git,linux,aws&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,js,react,postgres,redis,docker,git,linux&perline=6" />
 </div>
 
 ---
