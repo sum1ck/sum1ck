@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=33&duration=2500&pause=800&color=5B3EC9&center=true&vCenter=true&width=700&lines=sumick;Python+Developer;FastAPI+%2F+Django+%2F+React+%2F+AI+Integration" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=33&duration=2500&pause=800&color=5B3EC9&center=true&vCenter=true&width=700&lines=sumick;Python+Developer;FastAPI+%2F+Django+%2F+React" />
 </div>
 
 ---
 
-## ./stack
+## Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,react,postgres,redis,docker,git,linux,aws&perline=6" />
@@ -12,7 +12,7 @@
 
 ---
 
-## ./what-i-actually-do-well
+## What I actually do well
 
 ```txt
 > Design REST APIs with FastAPI/Django that are clean and easy to hand off.
@@ -24,7 +24,7 @@
 
 ---
 
-## ./current-focus
+## Current focus
 
 ```txt
 Backend architecture
